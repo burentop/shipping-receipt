@@ -1,0 +1,15 @@
+body {
+  background-color: bisque;
+}
+
+.well {
+  background-color: lightsteelblue;
+}
+
+.jumbotron {
+  background-color: azure;
+}
+
+.receipt {
+  display: none;
+}
